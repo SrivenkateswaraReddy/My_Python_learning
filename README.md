@@ -1,5 +1,5 @@
 # My_Python_learning
-<h1>Python Learning From Both UDEMY and Other TextBooks</h1>
+<h1>Python programming basics</h1>
 <h2>List of Topics</h2>
 <h3>1.0 Basic DataTypes</h3>
 <h3>1.1 Help in Python</h3>
